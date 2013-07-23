@@ -28,11 +28,11 @@ var globals = {
 
 defaults = {
   difficulty: 0,
-  celSize: 60,
-  width: 1000,
-  height: 1500,
-  background: 'white',
-  font: '14px Arial',
+  celSize: 200,
+  width: 500,
+  height: 500,
+  background: 'yellow',
+  font: '24px Arial',
   celColor: '#dadada',
   celStroke: 'white',
   celRadius: 5,
